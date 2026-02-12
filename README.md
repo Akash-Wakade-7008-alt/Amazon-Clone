@@ -1,7 +1,9 @@
-<!-- 🔥 Elite Animated Header -->
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:F59E0B&height=260&section=header&text=Amazon%20Clone&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:131A22,100:FF9900&height=260&section=header&text=Amazon%20Clone&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HTML%20%7C%20CSS%20%7C%20Frontend%20Project&descAlignY=60&descSize=18"/>
 </p>
+
 
 <p align="center">
   <b>A pixel-perfect Amazon-inspired UI built with pure HTML & CSS.</b>  
