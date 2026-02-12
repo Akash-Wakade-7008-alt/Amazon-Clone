@@ -11,6 +11,8 @@ header {
   display: flex;
   background-color: rgba(0, 0, 0, 0.792);
   margin-top: -1vh;
+  position: sticky;
+  top: 0;
 }
 
 #products-row1 {
